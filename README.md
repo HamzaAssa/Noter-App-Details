@@ -19,7 +19,7 @@ Notebook, Notepad, Notes, Sub Note, Sub Notes, Note Taking App, Organizing App, 
 
 App is availableo on google playstore for installation.
 
-[Download APK]([https://github.com/HamzaAssa/rasaank_labzbalad/tree/main/apk/rasaank_labzbalad.apk](https://play.google.com/store/apps/details?id=com.rasaank.noter))  
+[Download APK](https://play.google.com/store/apps/details?id=com.rasaank.noter)  
 
 
 ## Features
