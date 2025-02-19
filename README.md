@@ -46,7 +46,6 @@ Noter is a powerful and user-friendly note-taking app that offers various custom
 
 ### Download Noter now and keep your notes, to-do lists, and tasks in one place, with customizable settings designed to meet your needs. Get more organized and productive with **Noter**!
 
----
 ## License
 
 Copyright (c) 2025 Hamza
@@ -55,6 +54,8 @@ All rights reserved.
 ## Contact
 
 For any questions or feedback, please reach out to the development team at <a href="mailto:hamzaassarehman\@gmail.com">hamzaassarehman\@gmail.com</a>
+
+---
 
 **Note**:  
 This app is **private** and is **published on the Play Store** for public use. The source code is **not open for public contributions**, but the code is available to showcase to potential employers. The application is actively maintained and is designed to provide users with a seamless and highly customizable note-taking experience.
